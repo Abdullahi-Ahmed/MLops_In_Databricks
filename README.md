@@ -2,5 +2,5 @@
 Operationalizing ML using Machine Learning Operations (MLOps) in databricks by Automating Data Task (Data Engineering, Data Science &amp; Machine Learning Engineering)  
   
   ## Our framework Architecture  
-  [Presentation1.pdf](https://github.com/Abdullahi-Ahmed/MLops_In_Databricks/files/7984133/Presentation1.pdf)
+<img width="709" alt="design" src="https://user-images.githubusercontent.com/85021780/152106434-a37311e4-5b5d-4275-98b5-ea7d773fcf06.png">
 
